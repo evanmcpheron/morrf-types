@@ -1,8 +1,0 @@
-{
-  "changelog": ["@changesets/cli/changelog", { "repo": "evanmcpheron/morrf-types" }],
-  "commit": false,
-  "linked": [],
-  "access": "public",
-  "baseBranch": "main",
-  "updateInternalDependencies": "patch"
-}
