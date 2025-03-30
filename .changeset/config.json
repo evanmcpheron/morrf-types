@@ -1,0 +1,8 @@
+{
+  "changelog": ["@changesets/changelog", { "repo": "emcpheron/morrf-types" }],
+  "commit": false,
+  "linked": [],
+  "access": "public",
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch"
+}
