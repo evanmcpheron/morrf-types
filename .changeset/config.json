@@ -1,5 +1,5 @@
 {
-  "changelog": ["@changesets/changelog", { "repo": "emcpheron/morrf-types" }],
+  "changelog": ["@changesets/cli/changelog", { "repo": "emcpheron/morrf-types" }],
   "commit": false,
   "linked": [],
   "access": "public",
