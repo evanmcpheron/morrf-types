@@ -1,0 +1,20 @@
+{
+  "name": "@morrf/types",
+  "version": "0.0.1",
+  "description": "Shared types for Morrf (used in frontend and backend)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version",
+    "prepublishOnly": "npm run build",
+    "build": "tsc"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.28.1"
+  }
+}
