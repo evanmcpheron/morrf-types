@@ -1,6 +1,6 @@
 {
   "name": "@morrf/types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared types for Morrf (used in frontend and backend)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
